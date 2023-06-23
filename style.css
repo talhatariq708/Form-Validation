@@ -1,0 +1,33 @@
+body {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+#container {
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+h2 {
+    text-align: center;
+}
+input {
+    margin: 6px;
+    padding: 9px;
+    width: 222px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+#submit1 {
+    width: 241px;
+    border: 0px;
+    background-color: blue;
+    color: white;
+}
+.error {
+    color: red;
+    text-align: left;
+}
