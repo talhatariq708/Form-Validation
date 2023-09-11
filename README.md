@@ -10,7 +10,7 @@ adding placeholders to text and password
 styling the body, centralized the div
 styling the html page
 # javascript
-addung function and giving 2 different ids to username and password
+adding function and giving 2 different ids to username and password
 using if else if statements and adding the logics to the code
 add one more variable named as "flag" and give the value of 1
 at the ending added "flag" in the if statements
