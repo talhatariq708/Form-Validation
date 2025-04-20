@@ -3,7 +3,7 @@
 Change the name of the title to form validation
 in body tag contain only one div and give it an id
 inside there is h2 tag
-containing 1 form with 3 different inputs "text" , "password" and "submit"
+containing 1 form with 3  different inputs "text" , "password" and "submit"
 giving them each one id
 adding placeholders to text and password
 # CSS
