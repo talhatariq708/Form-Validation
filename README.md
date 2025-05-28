@@ -16,3 +16,4 @@ add one more variable named as "flag" and give the value of 1
 at the ending added "flag" in the if statements
 adding "0" below "if" and "else if" statement to return the value to false
 adding "1" below "else" statement to return the value to true
+
